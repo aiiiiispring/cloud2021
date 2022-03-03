@@ -12,8 +12,7 @@ spring:
           username: 15637790953
           password: a1554454156
           #搜索目录
-          search-paths:
-            - /cloud-config-center3344/**
+          search-paths: cloud-config-center3344/**
       #读取分支
       label: master
 
